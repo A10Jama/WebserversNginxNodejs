@@ -3,16 +3,22 @@ This Readme.md file provides an overview of web servers, NodeJS, and NGINX, as w
 
 ### Web Servers
 Web servers are software programs that accept HTTP requests from clients, such as web browsers, and return HTTP responses, usually in the form of web pages. When a user enters a URL in their browser, the browser sends a DNS request to obtain the IP address of the domain name. The web server then responds by sending the requested page via HTTP.
+
 ![image](https://user-images.githubusercontent.com/129948378/231837638-e5d0dd91-996b-4345-880a-65adab4ff2b5.png)
+
 
 ### NodeJS
 NodeJS is a JavaScript runtime that allows developers to run JavaScript code outside of a web browser. Unlike traditional web servers, NodeJS is event-driven and single-threaded, allowing for efficient handling of multiple requests. NodeJS is commonly used for developing real-time chatbots, streaming web applications, and microservices architecture.
+
 ![image](https://user-images.githubusercontent.com/129948378/231841995-a066817a-cfc2-4e10-a185-68835d08857f.png)
+
 
 
 ### NGINX
 NGINX is a high-performance web server that is known for its speed and scalability. NGINX uses worker processes and connections to handle requests and responses. One worker connection can handle up to 1024 requests, making NGINX one of the fastest web servers available. NGINX is commonly used by major online companies such as Google, Netflix, and Adobe.
+
 ![image](https://user-images.githubusercontent.com/129948378/231841326-c9399bc4-110e-4f42-a7d3-df431de4873e.png)
+
 
 ### Top 10 Use Cases of NodeJS
 - Developing Streaming Web Applications
