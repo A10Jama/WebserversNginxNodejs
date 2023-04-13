@@ -47,3 +47,4 @@ NPM is a software package manager and installer that allows developers to easily
 
 ### Reverse Proxy
 A reverse proxy is a backend tool used by system administrators to sit between a user and a web server. Instead of connecting directly to the server, the reverse proxy forwards the request to the server, which then returns a response. Reverse proxies can be used for centralized logging, configurable frontend, network protection and privacy, caching, and load balancing. NGINX is a popular tool for implementing reverse proxies.
+
