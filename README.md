@@ -7,7 +7,8 @@ Web servers are software programs that accept HTTP requests from clients, such a
 
 ### NodeJS
 NodeJS is a JavaScript runtime that allows developers to run JavaScript code outside of a web browser. Unlike traditional web servers, NodeJS is event-driven and single-threaded, allowing for efficient handling of multiple requests. NodeJS is commonly used for developing real-time chatbots, streaming web applications, and microservices architecture.
-![image](https://user-images.githubusercontent.com/129948378/231841236-af595df8-de96-49f8-9e01-d7279c313e6b.png)
+![image](https://user-images.githubusercontent.com/129948378/231841995-a066817a-cfc2-4e10-a185-68835d08857f.png)
+
 
 ### NGINX
 NGINX is a high-performance web server that is known for its speed and scalability. NGINX uses worker processes and connections to handle requests and responses. One worker connection can handle up to 1024 requests, making NGINX one of the fastest web servers available. NGINX is commonly used by major online companies such as Google, Netflix, and Adobe.
