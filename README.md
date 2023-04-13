@@ -12,8 +12,7 @@ NodeJS is a JavaScript runtime that allows developers to run JavaScript code out
 
 ### NGINX
 NGINX is a high-performance web server that is known for its speed and scalability. NGINX uses worker processes and connections to handle requests and responses. One worker connection can handle up to 1024 requests, making NGINX one of the fastest web servers available. NGINX is commonly used by major online companies such as Google, Netflix, and Adobe.
-![image](https://user-images.githubusercontent.com/129948378/231837329-6f0a4994-6b43-4bb5-8b98-303a46b23939.png)
-
+![image](https://user-images.githubusercontent.com/129948378/231840988-f8b8f9d3-2f2e-4db7-8fdd-ea76bec3a02e.png)
 
 ### Top 10 Use Cases of NodeJS
 - Developing Streaming Web Applications
